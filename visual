@@ -286,7 +286,7 @@ createButton("Pet Leveler", "https://raw.githubusercontent.com/nedyxxx/gAgFluxio
 local footer = Instance.new("TextLabel", main)
 footer.Size = UDim2.new(1, 0, 0, 20)
 footer.Position = UDim2.new(0, 0, 1, -20)
-footer.Text = "Tiktok: @lumeniax"
+footer.Text = "Tiktok: @nyedix"
 footer.Font = Enum.Font.GothamSemibold
 footer.TextSize = 12
 footer.TextColor3 = Color3.fromRGB(200, 200, 200)
