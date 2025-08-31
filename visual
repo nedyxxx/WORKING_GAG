@@ -235,6 +235,7 @@ end
 
 
 -- Add Buttons
+createButton("Zysume Hub", "https://raw.githubusercontent.com/ZusumeHub/ZusumeHub/refs/heads/main/UpdateZysume")
 createButton("ThanHub (KEYLESS)", "https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1")
 createButton("SpeedhubX (KEYLESS)", "https://raw.githubusercontent.com/nedyxxx/gAgFluxionAI/refs/heads/main/speedhub")
 createButton("Project Reverse (KEYLESS)", "https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/gag_visual.lua")
